@@ -5,6 +5,8 @@ nav {
   padding: 5px 24px;
   background-color: #fff;
   transition: 500ms all ease-in;
+  z-index: 999;
+  max-width: 100%;
 }
 
 nav.scroll {
